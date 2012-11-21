@@ -1,0 +1,16 @@
+C:\Users\didi\Desktop\dsktp\UTI2\dvrAPP\dvrAPP\obj\Release\ResolveAssemblyReference.cache
+C:\Users\didi\Desktop\dsktp\UTI2\dvrAPP\dvrAPP\obj\Release\dvrAPP.Form1.resources
+C:\Users\didi\Desktop\dsktp\UTI2\dvrAPP\dvrAPP\obj\Release\dvrAPP.Properties.Resources.resources
+C:\Users\didi\Desktop\dsktp\UTI2\dvrAPP\dvrAPP\obj\Release\dvrAPP.csproj.GenerateResource.Cache
+C:\Users\didi\Desktop\dsktp\UTI2\dvrAPP\dvrAPP\bin\Release\dvrAPP.exe
+C:\Users\didi\Desktop\dsktp\UTI2\dvrAPP\dvrAPP\bin\Release\dvrAPP.pdb
+C:\Users\didi\Desktop\dsktp\UTI2\dvrAPP\dvrAPP\obj\Release\dvrAPP.exe
+C:\Users\didi\Desktop\dsktp\UTI2\dvrAPP\dvrAPP\obj\Release\dvrAPP.pdb
+C:\Users\didi\Desktop\UTI\DVR\APP\dvrAPP\bin\Release\dvrAPP.exe
+C:\Users\didi\Desktop\UTI\DVR\APP\dvrAPP\bin\Release\dvrAPP.pdb
+C:\Users\didi\Desktop\UTI\DVR\APP\dvrAPP\obj\Release\ResolveAssemblyReference.cache
+C:\Users\didi\Desktop\UTI\DVR\APP\dvrAPP\obj\Release\dvrAPP.Form1.resources
+C:\Users\didi\Desktop\UTI\DVR\APP\dvrAPP\obj\Release\dvrAPP.Properties.Resources.resources
+C:\Users\didi\Desktop\UTI\DVR\APP\dvrAPP\obj\Release\dvrAPP.csproj.GenerateResource.Cache
+C:\Users\didi\Desktop\UTI\DVR\APP\dvrAPP\obj\Release\dvrAPP.exe
+C:\Users\didi\Desktop\UTI\DVR\APP\dvrAPP\obj\Release\dvrAPP.pdb

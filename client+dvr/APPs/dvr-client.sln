@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dvr", "dvr\dvr.csproj", "{6CE70ADC-0AA4-43C9-9B83-5D85E4A25FFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "client", "client\client.csproj", "{E80BEA19-4934-437E-9FA4-100E55CDF285}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CE70ADC-0AA4-43C9-9B83-5D85E4A25FFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CE70ADC-0AA4-43C9-9B83-5D85E4A25FFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CE70ADC-0AA4-43C9-9B83-5D85E4A25FFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CE70ADC-0AA4-43C9-9B83-5D85E4A25FFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E80BEA19-4934-437E-9FA4-100E55CDF285}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E80BEA19-4934-437E-9FA4-100E55CDF285}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E80BEA19-4934-437E-9FA4-100E55CDF285}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E80BEA19-4934-437E-9FA4-100E55CDF285}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

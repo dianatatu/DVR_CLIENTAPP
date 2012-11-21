@@ -1,0 +1,16 @@
+C:\Users\didi\Desktop\UTI\DVR\APP\dvrClient\bin\Debug\dvrClient.exe
+C:\Users\didi\Desktop\UTI\DVR\APP\dvrClient\bin\Debug\dvrClient.pdb
+C:\Users\didi\Desktop\UTI\DVR\APP\dvrClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\didi\Desktop\UTI\DVR\APP\dvrClient\obj\Debug\dvrClient.Form1.resources
+C:\Users\didi\Desktop\UTI\DVR\APP\dvrClient\obj\Debug\dvrClient.Properties.Resources.resources
+C:\Users\didi\Desktop\UTI\DVR\APP\dvrClient\obj\Debug\client.csproj.GenerateResource.Cache
+C:\Users\didi\Desktop\UTI\DVR\APP\dvrClient\obj\Debug\dvrClient.exe
+C:\Users\didi\Desktop\UTI\DVR\APP\dvrClient\obj\Debug\dvrClient.pdb
+C:\Users\didi\Desktop\UTI\client+dvr\APPs\client\obj\Debug\dvrClient.exe
+C:\Users\didi\Desktop\UTI\client+dvr\APPs\client\obj\Debug\dvrClient.pdb
+C:\Users\didi\Desktop\UTI\client+dvr\APPs\client\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\didi\Desktop\UTI\client+dvr\APPs\client\obj\Debug\dvrClient.Properties.Resources.resources
+C:\Users\didi\Desktop\UTI\client+dvr\APPs\client\obj\Debug\client.csproj.GenerateResource.Cache
+C:\Users\didi\Desktop\UTI\client+dvr\APPs\client\bin\Debug\dvrClient.exe
+C:\Users\didi\Desktop\UTI\client+dvr\APPs\client\bin\Debug\dvrClient.pdb
+C:\Users\didi\Desktop\UTI\client+dvr\APPs\client\obj\Debug\dvrClient.clientForm.resources
