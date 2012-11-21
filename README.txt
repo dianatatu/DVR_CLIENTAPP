@@ -3,22 +3,22 @@
 1.	Prezentare generala a sistemului.
 In schema de jos este prezentata structura generala de legare a echipamentelor DVR si a aplicatiei client in retea. Dupa cum se poate observa posibilul bottleneck apare la legarea a mai multor DVR-uri la aceeasi aplicatie client, dar un modul de optimizare este util si atunci cand vorbim de conexiune 1 la 1, reducand consturile necesare infrastructurii de retea.
 
-DVR			DVR			DVR		... 	DVR	 	DVR		DVR
-|			|			|				|		|		|
-|			|			|				|		|		|
-|			|			|				|		|		|
----------------------------------------------------------
-							|
-							|
-							|
-							|
-						LAN / WAN
-					Possible bottleneck
-							|
-							|
-							|
-							|
-						Client SW
+DVR			DVR		... 	DVR	 	DVR	
+|			|				|		|
+|			|				|		|
+|			|				|		|
+-------------------------------------
+					|
+					|
+					|
+					|
+				LAN / WAN
+			Possible bottleneck
+					|
+					|
+					|
+					|
+				Client SW
 
 Aplicatia client schimba mai multe tipuri de informatii cu aplicatiile DVR din teren:
 -	Stari (online, defect, camera fara semnal etc)
